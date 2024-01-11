@@ -153,4 +153,4 @@ function writeToFile(filePath, content, fileType) {
   });
 }
 
-generateAndCreateFiles("testing", "icons/*.svg", "dist");
+generateAndCreateFiles("cnfmvjgnbjgvnfdjkvnfbfgjkvndklcndfo", "icons/*.svg", "dist");
