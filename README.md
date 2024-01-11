@@ -4,12 +4,12 @@
 To install dependence:
 
 ```bash
-npm install testing
+npm install testingiconpack56929
 ```
 
 Import
 ```
-import('testing/dist/apricons.css')
+import('testing/dist/testing.css')
 ```
 
 Example:
