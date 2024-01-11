@@ -1,0 +1,18 @@
+{
+  "name": "testing",
+  "version": "0.0.1",
+  "description": "Only test add npm package",
+  "author": "Art",
+  "license": "MIT",
+  "keywords": ["Icon"],
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "dependencies": {
+    "@momentum-ui/webfonts-generator": "^2.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/artemsvetkin/testicon/issues"
+  },
+  "homepage": "https://github.com/artemsvetkin/testicon"
+}
