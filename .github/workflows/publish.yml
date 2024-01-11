@@ -15,6 +15,5 @@ jobs:
           registry-url: https://registry.npmjs.org
       - name: publish
         run: npm publish --access public
-        working-directory: .
         env:
           NODE_AUTH_TOKEN: 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
