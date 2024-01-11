@@ -12,6 +12,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 18
+      - name: Set up npm
+        run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_AUTH_TOKEN }}" >> ~/.npmrc
       - name: publish
         run: npm publish --access public
         env:
