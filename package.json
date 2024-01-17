@@ -5,6 +5,9 @@
   "author": "Art",
   "license": "MIT",
   "keywords": ["Icon"],
+  "scripts": {
+    "start": "node index.js"
+  },
   "devDependencies": {
     "bun-types": "latest"
   },
