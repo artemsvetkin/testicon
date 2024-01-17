@@ -12,6 +12,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 18
+      - name: Install Dependencies
+        run: npm install
       - name: Get Dist
         run: npm run index.js
       - name: Set up npm
