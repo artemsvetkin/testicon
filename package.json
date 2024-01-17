@@ -1,10 +1,12 @@
 {
   "name": "cnfmvjgnbjgvnfdjkvnfbfgjjjj",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Only test add npm package",
   "author": "Art",
   "license": "MIT",
-  "keywords": ["Icon"],
+  "keywords": [
+    "Icon"
+  ],
   "scripts": {
     "start": "node index.js"
   },
@@ -17,6 +19,5 @@
   "bugs": {
     "url": "https://github.com/artemsvetkin/testicon/issues"
   },
-
   "homepage": "https://github.com/artemsvetkin/testicon"
 }
